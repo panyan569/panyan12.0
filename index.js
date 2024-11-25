@@ -1,0 +1,1 @@
+document.getElementById('app').textContent = 'My name is PanYan!';

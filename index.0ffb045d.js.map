@@ -1,0 +1,1 @@
+{"mappings":"ACAA,SAAS,cAAc,CAAC,OAAO,WAAW,CAAG","sources":["<anon>","index.js"],"sourcesContent":["document.getElementById('app').textContent = 'My name is PanYan!';\n\n//# sourceMappingURL=index.0ffb045d.js.map\n","document.getElementById('app').textContent = 'My name is PanYan!';"],"names":["document","getElementById","textContent"],"version":3,"file":"index.0ffb045d.js.map"}
